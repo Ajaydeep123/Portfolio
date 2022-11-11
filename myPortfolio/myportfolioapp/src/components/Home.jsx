@@ -12,7 +12,6 @@ const Home = () => {
                     I'm a Frontend Developer 
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                    I am an ECE graduate who somehow found his love in fronted development.
                     I have more than six months of experience in building responsive web applications.
                     I enjoy working on web applications using technologies like React, Next JS, Tailwind, and Material UI.
                     
