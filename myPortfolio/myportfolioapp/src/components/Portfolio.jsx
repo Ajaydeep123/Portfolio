@@ -1,46 +1,45 @@
 import React from 'react'
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
-
+import reels from "../assets/portfolio/reels.jpg";
+import movie from "../assets/portfolio/movie.jpg";
+import camera from "../assets/portfolio/camera.jpg";
+import automation from "../assets/portfolio/automation.jpg";
+import todo from "../assets/portfolio/todo.jpg";
+import scrapper from "../assets/portfolio/scrapper.jpg";
 const Portfolio = () => {
     const portfolios = [
         {
           id: 1,
-          src: arrayDestruct,
+          src: reels,
           demo:'https://reels-clone-pi.vercel.app/',
           code: 'https://github.com/Ajaydeep123/reels',
         },
         {
           id: 2,
-          src: reactParallax,
+          src: movie,
           demo:'https://nwsmovies.netlify.app/',
           code:'https://github.com/Ajaydeep123/moviesApp',
         },
         {
           id: 3,
-          src: navbar,
+          src: todo,
           demo:'https://ajaydeep123.github.io/Ticket_management_system/',
           code:'https://github.com/Ajaydeep123/Ticket_management_system',
         },
         {
           id: 4,
-          src: reactSmooth,
+          src: camera,
           demo:'https://ajaydeep123.github.io/CameraApp/',
           code:'https://github.com/Ajaydeep123/CameraApp',
         },
         {
           id: 5,
-          src: installNode,
+          src: automation,
           demo:'https://drive.google.com/file/d/1NPEb1S7Tx-_Me3j4kHzj2cXgCsKpXla3/view?usp=share_link',
           code:'https://github.com/Ajaydeep123/HackerRank-Automation',
         },
         {
           id: 6,
-          src: reactWeather,
+          src: scrapper,
           demo:'https://drive.google.com/file/d/1NPEb1S7Tx-_Me3j4kHzj2cXgCsKpXla3/view?usp=share_link',
           code:'https://github.com/Ajaydeep123/Github_Scrapper',  
         },
