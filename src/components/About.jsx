@@ -14,19 +14,15 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-          मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ २-४७"
-          {<br/>}
-          "You have the right to work only but never to its fruits.
-          Let not the fruits of action be your motive, nor let your attachment be to inaction."
+          I am an ECE '21 graduate from Dr. A.P.J. Abdul Kalam Technical University, where I gained a solid foundation in electronics and communications engineering.
+          However, I discovered a genuine passion for coding in 2022 and decided to pursue it as a career. 
         </p>
 
         <br />
 
         <p className="text-xl">
-        I am a 2021 Ece graduate who somehow found his passion in web development. 
-        I started learning to code in January 2022 and haven't stopped since then.
-         Every day I learn something and grow better than the person I was the day before.
+          I am now tremendously excited about the prospect of applying my expertise to real-world applications and solving challenging problems.
+          My goal is to become a successful and versatile fullstack developer.
         </p>
       </div>
     </div>
